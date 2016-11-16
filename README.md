@@ -1,5 +1,7 @@
 传送门：https://github.com/azheng51714/MACProject
+
 无意间从 Dribbble 上看到一个logo 设计图，感觉非常有意思，所以决定拿来玩玩；
+
 ![原图](http://upload-images.jianshu.io/upload_images/335970-184c1e88059bb9e9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240); 
 
 分析其构造，基本确定有2部分组成，分别是：外环圆以及内部的三个收尾相连贝塞尔曲线；
